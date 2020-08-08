@@ -43,5 +43,5 @@ Inicio
          escreval(" - -")
          escreval(" - D")
       fimEscolha
-   ate contador = 10 //VALOR ALTERÁVEL/OPCIONAL
+   ate contador = 7 //VALOR ALTERÁVEL/OPCIONAL (sequencia)
 Fimalgoritmo
